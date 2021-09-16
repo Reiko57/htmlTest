@@ -1,0 +1,13 @@
+table th{/*thに対して*/
+    color:  white;
+    background:  black
+    }
+  
+  table td{/*tdに対して*/
+    color: white;
+    background:  gray;
+    }
+
+    p {
+      background-color: gray
+    }
